@@ -1,5 +1,6 @@
 # CSS div style
-clip-path: polygon() -> Create a custom shape of div.
+❔ Create a custom shape of div.
+clip-path: polygon()
 
 
 # CSS Animation
