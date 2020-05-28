@@ -62,3 +62,22 @@ clip-path: polygon()
 - Less images
 - Compress images
 ```
+# Layout 
+
+❔ Block-level boxes vs Inline boxes
+
+- Block-level boxes
++ Elements formatted visually as blocks
++ 100% of parent's width
++ Vertically, one after another
++ Box-model applies as showed
++ display: block, flex, list-item, table
+
+- Inline boxes
++ Content is distributed in lines
++ Occupies only content's space
++ No line-breaks
++ No heights and widths 
++ Paddings and margins only horizontal (left and right)
++ display: inline
+
