@@ -2,7 +2,7 @@
 clip-path: polygon() -> Create a custom shape of div.
 
 
-#CSS Animation
+# CSS Animation
 ❔ Create a animation
 
 ```
