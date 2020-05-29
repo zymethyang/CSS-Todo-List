@@ -81,3 +81,10 @@ clip-path: polygon()
 + Paddings and margins only horizontal (left and right)
 + display: inline
 
+# Architechture
+❔ CSS Architechture with SCSS
+- abstracts
+- base 
+- components
+- layout
+- pages
